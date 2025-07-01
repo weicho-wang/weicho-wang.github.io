@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 # ↓ --------------------------
 
 # title: Chirpy # the main title
-title: daario-wang
+title: weicho-wang
 
 # tagline: A text-focused Jekyll theme # it will display as the sub-title
 tagline: MedicalImaging Physicist
@@ -26,11 +26,11 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://daario-wang.github.io'
+url: 'https://weicho-wang.github.io'
 
 github:
   # username: github_username # change to your github username
-  username: daario-wang
+  username: weicho-wang
 twitter:
   username: twitter_username # change to your twitter username
 
@@ -38,9 +38,9 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   # name: your_full_name
-  name: Daario Wang
+  name: weicho Wang
   # email: example@domain.com # change to your email address
-  email: daario.wang@outlook.com
+  email: weicho.wang@outlook.com
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
